@@ -1,0 +1,28 @@
+{
+  "name": "comandosyoyo",
+  "version": "1.0.3",
+  "description": "comandosyoyo calculation app's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "sign-alex": "^1.0.0",
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "ghost": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lanphamhuyen/comandosyoyo"
+  },
+  "homepage": "https://github.com/lanphamhuyen",
+  "keywords": [
+    "sign",
+    "add",
+    "sign",
+    "apart"
+  ],
+  "author": "comandos",
+  "license": "COM"
+}
